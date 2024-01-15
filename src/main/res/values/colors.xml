@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FFFFD700</color> //yellow
+    <color name="black">#FF000000</color> //black
+    <color name="red">#FFFF0000</color> //red
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="orange">#FFFF8C00</color> //orange
+    <color name="blue">#FF0000FF</color> //blue
+    <color name="white">#FF000000</color>
+
+    <style name="Theme.NewsApp.backStyle">
+        <item name="android:windowBackground">@drawable/back</item>
+    </style>
+
+</resources>
